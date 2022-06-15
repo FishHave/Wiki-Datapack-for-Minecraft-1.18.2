@@ -1,0 +1,2 @@
+tellraw @a {"text":"\n    主条目：","extra":[{"text":"帮助目录","color": "blue","clickEvent": {"action":"run_command","value": ""}}]}
+tellraw @a {"text":"任何人都可以参与编辑。请查看","extra":[{"text":"帮助目录","color": "blue","clickEvent": {"action":"run_command","value": ""}},{"text":"获得更多帮助。"}]}

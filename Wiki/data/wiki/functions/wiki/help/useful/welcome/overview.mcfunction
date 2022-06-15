@@ -1,0 +1,1 @@
+tellraw @a {"text":"\n","extra":[{"text":"欢迎来到","bold": true},{"text":"中文Minecraft Wiki。从现在起，您是Wiki的一员了！您可以随时阅览、编辑条目。下面请参阅Wiki的基本信息"}]}

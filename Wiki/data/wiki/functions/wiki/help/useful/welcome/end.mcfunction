@@ -1,0 +1,1 @@
+tellraw @a {"text":"\n感谢您的合作，再次欢迎您来到Minecraft Wiki！"}

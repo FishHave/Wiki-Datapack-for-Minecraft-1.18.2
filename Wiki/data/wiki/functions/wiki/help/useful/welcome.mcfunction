@@ -1,0 +1,8 @@
+tellraw @a {"text":"\nMinecraft Wiki:欢迎辞"}
+tellraw @a {"text":"[","extra": [{"text": "概要","color": "yellow","underlined": true,"clickEvent": {"action": "run_command","value": "/function wiki:wiki/help/useful/welcome/overview"}},{"text":"]"}]}
+tellraw @a {"text":"[","extra":[{"text":"中文？","color":"yellow","underlined": true,"clickEvent": {"action": "run_command","value": "/function wiki:wiki/help/useful/welcome/chinese"}},{"text":"]"}]}
+tellraw @a {"text":"[","extra": [{"text": "Minecraft?","color": "yellow","underlined": true,"clickEvent": {"action":"run_command","value": "/function wiki:wiki/help/useful/welcome/minecraft"}},{"text":"]"}]}
+tellraw @a {"text":"[","extra":[{"text": "Wiki?","color": "yellow","underlined": true,"clickEvent": {"action":"run_command","value": "/function wiki:wiki/help/useful/welcome/wiki"}},{"text":"]"}]}
+tellraw @a {"text":"[","extra":[{"text":"还有呢？","color": "yellow","underlined": true,"clickEvent": {"action":"run_command","value": "/function wiki:wiki/help/useful/welcome/and"}},{"text":"]"}]}
+tellraw @a {"text":"[","extra":[{"text":"我想参与","color": "yellow","underlined": true,"clickEvent": {"action": "run_command","value": "/function wiki:wiki/help/useful/welcome/join"}},{"text":"]"}]}
+tellraw @a {"text":"[","extra":[{"text":"结尾","color":"yellow","underlined": true,"clickEvent": {"action":"run_command","value": "/function wiki:wiki/help/useful/welcome/end"}},{"text":"]"}]}
